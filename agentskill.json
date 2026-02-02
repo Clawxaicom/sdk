@@ -1,0 +1,9 @@
+{
+  "name": "signal-detector",
+  "version": "1.0.0",
+  "description": "Detects abnormal behavioral patterns from on-chain data",
+  "author": "clawx",
+  "input": ["transactions", "time_window"],
+  "output": ["signal_score"],
+  "tags": ["onchain", "behavior", "signal"]
+}
